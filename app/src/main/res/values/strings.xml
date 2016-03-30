@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Question_Answer</string>
+
+    <string name="question_1">請問："\n"本門派誰最愛下麵給人吃？</string>
+    
+    <string name="question_1_radio_a">艾蕾歐諾拉維爾塔利亞</string>
+    <string name="question_1_radio_b">Yeon誠</string>
+    <string name="question_1_radio_c">風騷洨兔仔</string>
+
+    <string name="question_2">請問："\n"阿誠的口頭禪是？</string>
+
+    <string name="question_2_radio_a">重打重打</string>
+    <string name="question_2_radio_b">我就知道</string>
+    <string name="question_2_radio_c">拎搭ㄍㄟ啦</string>
+
+</resources>
